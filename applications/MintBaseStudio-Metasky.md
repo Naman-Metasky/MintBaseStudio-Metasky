@@ -186,13 +186,35 @@ Mintbase Studio to unlock the following features in this milestone
 #### Providing a leaderboard view for the community and creators to identify, monetize, and gather insights in terms of the overall participation of the community members. 
 ![Screenshot 2023-10-20 at 1 36 56 PM](https://github.com/Naman-Metasky/MintStudio-Metasky/assets/129367947/298a03c6-a23d-4308-911b-b43270bcfc53)
 
-### Milestone Progress Update
+## Milestone Progress Update
+
+**Updated 22 Feburary 2024** - Successfully implemented the first 3 milestones outlined in the grant application within a 7-week timeframe.
+
 | Milestone | Progress |                            Task Completed                            |                               Work In Progress                               |
 |:---------:|:--------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 |     M1    |    100%   |                    Login With Near, Contract Import, Support Mintbase Wallet                   |     NA                                     |
 |     M2    |    100%   |                  Create Collection using MB Indexer, Standalone Templates, Support Mintbase Secondary Matketplace on wallet                 | NA |
 |     M3    |    100%   | Enabling Twitter and Custom bounties , Linking utilities to NFT collection, Enabling Leaderboard |                    NA                 |
 |     M4    |    50%   |                   Customised Club Page within existing Application               |                Whitelabelled Club Application                 |
+
+Creators can start launching NFTs, Run Bounties and Distribute Rewards via [Mintbase Studio](https://mintbase-studio.metasky.me/).
+
+**Mintbase Studio Launch:**
+  - Mintbase creators can now launch their own NFT collections via  mintbase-studio.metasky.me.
+  - Options include utilizing custom or templated formats.
+  - Existing NFT collections on Mintbase can be imported.
+
+**Mintbase Wallet Integration:**
+  - NFT holders of Mintbase collections can now access the metasky club application via Mintbase Wallet. 
+
+**Custodial Mechanism Support:**
+  - Initiated support for shared custodial mechanism login with a user-friendly approach.
+  - Currently, Mintbase wallet login exclusively supports custodial login at the current development stage.
+
+**Secondary Marketplace Activation:**
+  - The secondary marketplace on the club application is now active.
+  - Users can actively participate in peer to peer buying and selling of Mintbase NFTs 
+  - Implemented an on-ramp solution for custodial users to ensure a smooth and user-friendly experience in the secondary marketplace.
 
 ...
 ## Future Plans
