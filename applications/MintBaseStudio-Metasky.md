@@ -103,8 +103,8 @@ Bounties are a tool to identify these loyal superfans and ensure they are well i
 
 ### Contact
 
-- **Contact Name:** Naman Kabra
-- **Contact Email:** naman@metasky.ai
+- **Contact Name:** Prakhar Sharma
+- **Contact Email:** prakhar@metasky.ai
 - **Website:** https://metasky.me
 
 ### Legal Structure
