@@ -187,12 +187,12 @@ Mintbase Studio to unlock the following features in this milestone
 ![Screenshot 2023-10-20 at 1 36 56 PM](https://github.com/Naman-Metasky/MintStudio-Metasky/assets/129367947/298a03c6-a23d-4308-911b-b43270bcfc53)
 
 ### Milestone Progress Update
-| Milestone | Progress |                            Task Completed                            |                               Items WIP                               |
+| Milestone | Progress |                            Task Completed                            |                               Work In Progress                               |
 |:---------:|:--------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|     M1    |    75%   |                    Login With Near Contract Import                   |                        Support Mintbase Wallet                        |
-|     M2    |    55%   |                  Create Collection using MB Indexer                  | Standalone Templates Support Mintbase Secondary Marketplace on wallet |
-|     M3    |    80%   | Enabling bounties feature on Twitter Enabling benefits and utilities |                    Enabling leaderboard for Twitter                   |
-|     M4    |    90%   |                   Customized club page for Creators                  |                 Providing insightful leaderboard view                 |
+|     M1    |    100%   |                    Login With Near, Contract Import, Support Mintbase Wallet                   |     NA                                     |
+|     M2    |    100%   |                  Create Collection using MB Indexer, Standalone Templates, Support Mintbase Secondary Matketplace on wallet                 | NA |
+|     M3    |    100%   | Enabling Twitter and Custom bounties , Linking utilities to NFT collection, Enabling Leaderboard |                    NA                 |
+|     M4    |    50%   |                   Customised Club Page within existing Application               |                Whitelabelled Club Application                 |
 
 ...
 ## Future Plans
