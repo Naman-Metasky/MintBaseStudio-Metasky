@@ -188,13 +188,13 @@ Mintbase Studio to unlock the following features in this milestone
 
 ## Milestone Progress Update
 
-**Updated 22 Feburary 2024** - Successfully implemented the first 3 milestones outlined in the grant application within a 7-week timeframe.
+**Updated 27 Feburary 2024** - Successfully implemented the first 3 milestones outlined in the grant application within a 7-week timeframe.
 
 | Milestone | Progress |                            Task Completed                            |                               Work In Progress                               |
 |:---------:|:--------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 |     M1    |    100%   |                    Login With Near, Contract Import, Support Mintbase Wallet                   |     NA                                     |
 |     M2    |    100%   |                  Create Collection using MB Indexer, Standalone Templates, Support Mintbase Secondary Matketplace on wallet                 | NA |
-|     M3    |    100%   | Enabling Twitter and Custom bounties , Linking utilities to NFT collection, Enabling Leaderboard |                    NA                 |
+|     M3    |    80%   | Enabling Twitter and Custom bounties , Linking utilities to NFT collection, Enabling Leaderboard |   Testing                 NA                 |
 |     M4    |    50%   |                   Customised Club Page within existing Application               |                Whitelabelled Club Application                 |
 
 Creators can start launching NFTs, Run Bounties and Distribute Rewards via [Mintbase Studio](https://mintbase-studio.metasky.me/).
