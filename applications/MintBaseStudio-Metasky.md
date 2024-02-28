@@ -194,7 +194,7 @@ Mintbase Studio to unlock the following features in this milestone
 |:---------:|:--------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 |     M1    |    100%   |                    Login With Near, Contract Import, Support Mintbase Wallet                   |     NA                                     |
 |     M2    |    100%   |                  Create Collection using MB Indexer, Standalone Templates, Support Mintbase Secondary Matketplace on wallet                 | NA |
-|     M3    |    80%   | Enabling Twitter and Custom bounties , Linking utilities to NFT collection, Enabling Leaderboard |   Testing                 NA                 |
+|     M3    |    80%   | Enabling Twitter and Custom bounties , Linking utilities to NFT collection, Enabling Leaderboard |   Testing                                 |
 |     M4    |    50%   |                   Customised Club Page within existing Application               |                Whitelabelled Club Application                 |
 
 Creators can start launching NFTs, Run Bounties and Distribute Rewards via [Mintbase Studio](https://mintbase-studio.metasky.me/).
